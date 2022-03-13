@@ -1,4 +1,4 @@
-# NGSIM-star-Error-Free-Next-Generation-SIMulation-Trajectory-Dataset-
+# NGSIM-star-Errorless-Next-Generation-SIMulation-Trajectory-Dataset-
 
 ## This Project is to recostruct NGSIM vehicle trajectory dataset.
 
